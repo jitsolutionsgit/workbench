@@ -6,3 +6,5 @@
 REPORT ZGIT_01.
 
 * MIKI
+
+* verzia 2
