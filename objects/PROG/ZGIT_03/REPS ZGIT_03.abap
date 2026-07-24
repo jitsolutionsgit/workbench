@@ -17,7 +17,8 @@ WRITE: / 'gCTS / Git demo'.
 FORMAT RESET.
 
 FORMAT COLOR COL_POSITIVE INTENSIFIED ON.
-WRITE: / 'Program bol upraveny a zmena pojde do Git-u.'.
+* zlaty moj pouivaj diakritiku
+WRITE: / 'Program bol upravený a zmena ide do Git-u.'.
 WRITE: / |Autor: { sy-uname }  Datum: { sy-datum }  Cas: { sy-uzeit }|.
 FORMAT RESET.
 ULINE.
