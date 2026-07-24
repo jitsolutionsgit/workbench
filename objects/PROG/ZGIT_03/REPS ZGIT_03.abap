@@ -6,3 +6,5 @@
 REPORT ZGIT_03.
 
 write 123.
+
+write 'pridal som dalsiu zmenu , dalsi transort'.
