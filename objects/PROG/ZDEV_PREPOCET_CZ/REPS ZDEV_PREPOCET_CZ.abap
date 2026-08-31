@@ -6,3 +6,4 @@
 REPORT ZDEV_PREPOCET_CZ.
 
 " bude treba prevod na eura
+" a stahuju sa kurzy ?
