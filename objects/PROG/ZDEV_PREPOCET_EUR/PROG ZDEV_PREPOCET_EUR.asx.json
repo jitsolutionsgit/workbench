@@ -6,10 +6,10 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"PROG",
-    "OBJ_NAME":"ZDEV_PREPOCET_SK",
+    "OBJ_NAME":"ZDEV_PREPOCET_EUR",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
-    "AUTHOR":"GIT_ADAM",
+    "AUTHOR":"GIT_ISTVAN",
     "SRCDEP":"",
     "DEVCLASS":"ZDEV_BRATISLAVA",
     "GENFLAG":"",
@@ -23,8 +23,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2026-08-28",
-    "CHECK_DATE":"2026-08-28",
+    "CREATED_ON":"2026-08-31",
+    "CHECK_DATE":"2026-08-31",
     "CHECK_CFG":""
    }
   ]
@@ -34,7 +34,7 @@
   "data":
   [
    {
-    "NAME":"ZDEV_PREPOCET_SK",
+    "NAME":"ZDEV_PREPOCET_EUR",
     "VARCL":"X",
     "SUBC":"1",
     "RSTAT":"T",
@@ -49,7 +49,7 @@
   "data":
   [
    {
-    "NAME":"ZDEV_PREPOCET_SK",
+    "NAME":"ZDEV_PREPOCET_EUR",
     "SPRSL":"E",
     "TEXT":"PREPOCET_SK"
    }
