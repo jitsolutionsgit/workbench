@@ -9,4 +9,4 @@ REPORT ZDEV_PREPOCET_EUR.
 " Kluci, vzdyt na Slovensku uz mame euro ;-) umite to udelat ?
 " ja cyril pridam este toto
 " ja dano hovorim ze viem co robim urcite na isto tak nevymyslaj
-" aleno... ved mame eura... tak EUR
+" aleno... ved mame eura... tak EUR bude bez prepoctu
