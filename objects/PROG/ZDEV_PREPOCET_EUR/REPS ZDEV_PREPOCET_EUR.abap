@@ -10,3 +10,4 @@ REPORT ZDEV_PREPOCET_EUR.
 " ja cyril pridam este toto
 " ja dano hovorim ze viem co robim urcite na isto tak nevymyslaj
 " aleno... ved mame eura... tak EUR bude bez prepoctu
+" nic to nebude delat, 1 = 1
