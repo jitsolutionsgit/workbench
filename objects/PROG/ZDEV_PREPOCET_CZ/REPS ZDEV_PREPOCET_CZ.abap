@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZDEV_PREPOCET_CZ.
 
-" bude treba prevod
+" bude treba prevod na eura
