@@ -11,3 +11,9 @@ REPORT ZDEV_PREPOCET_EUR.
 " ja dano hovorim ze viem co robim urcite na isto tak nevymyslaj
 " aleno... ved mame eura... tak EUR bude bez prepoctu
 " nic to nebude delat, 1 = 1
+
+* vypiseme vsetky 4 meny
+
+*verzia ked zbieram data z tabulky
+
+*ina metoda vyberu dat
