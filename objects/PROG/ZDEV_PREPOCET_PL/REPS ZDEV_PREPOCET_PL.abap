@@ -7,3 +7,4 @@ REPORT ZDEV_PREPOCET_PL.
 
 
 "ani srnka netusi aky je kury pl
+* kupis krowky ked to nakodim ?
