@@ -20,7 +20,7 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 10 = 10.
+IF 12 = 12.
 
-* som tu cez visual code a menim kod zase 10
+* som tu cez apag gui a menim kod zase 12
 ENDIF.
