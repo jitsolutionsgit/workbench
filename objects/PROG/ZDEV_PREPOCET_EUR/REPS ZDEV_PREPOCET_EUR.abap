@@ -20,7 +20,7 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 12 = 12.
+IF 13 = 13.
 
 * som tu cez apag gui a menim kod zase 12
 ENDIF.
