@@ -20,7 +20,7 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 7 = 7.
+IF 10 = 10.
 
 * som tu cez eclise a menim kod zase
 ENDIF.
