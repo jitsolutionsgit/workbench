@@ -18,7 +18,9 @@ REPORT zdev_prepocet_eur.
 
 *ina metoda vyberu dat
 
-* som tu cez visual code a menim kod zase
 
-IF 3 = 3.
+
+IF 5 = 5.
+
+* som tu cez visual code a menim kod zase
 ENDIF.
