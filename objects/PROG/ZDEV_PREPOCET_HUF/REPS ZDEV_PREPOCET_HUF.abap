@@ -6,3 +6,5 @@
 REPORT ZDEV_PREPOCET_HUF.
 
 " konverzia bude
+
+* som tu cez eclipse

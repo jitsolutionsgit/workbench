@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZDEV_PREPOCET_EUR.
+REPORT zdev_prepocet_eur.
 
 " a kde si zabudol prepocet zlaty moj ?
 " Kluci, vzdyt na Slovensku uz mame euro ;-) umite to udelat ?
@@ -17,3 +17,8 @@ REPORT ZDEV_PREPOCET_EUR.
 *verzia ked zbieram data z tabulky
 
 *ina metoda vyberu dat
+
+* som tu cez visual code a menim kod zase
+
+IF 1 = 1.
+ENDIF.
