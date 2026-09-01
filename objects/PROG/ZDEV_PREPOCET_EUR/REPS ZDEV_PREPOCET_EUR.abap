@@ -20,7 +20,7 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 11 = 11.
+IF 14 = 14.
 
-* som tu cez visual code a menim kod zase 10
+* som tu cez gui a menim kod zase na 14
 ENDIF.
