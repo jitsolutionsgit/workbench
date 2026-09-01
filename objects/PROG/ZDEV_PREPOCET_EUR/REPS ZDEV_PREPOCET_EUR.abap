@@ -20,7 +20,7 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 8 = 8.
+IF 9 = 9.
 
-* som tu cez eclise a menim kod zase
+* som tu cez visual code a menim kod zase
 ENDIF.
