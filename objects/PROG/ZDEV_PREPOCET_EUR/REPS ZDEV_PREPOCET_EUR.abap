@@ -20,5 +20,5 @@ REPORT zdev_prepocet_eur.
 
 * som tu cez visual code a menim kod zase
 
-IF 1 = 1.
+IF 2 = 2.
 ENDIF.
