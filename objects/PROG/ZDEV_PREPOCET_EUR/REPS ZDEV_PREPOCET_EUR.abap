@@ -20,7 +20,9 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 14 = 14.
+IF 15 = 15.
 
-* som tu cez gui a menim kod zase na 14
+* som tu cez gui a menim kod zase na 15
+
+* SAP GUI
 ENDIF.
