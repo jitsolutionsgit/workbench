@@ -20,7 +20,7 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 15 = 15.
+IF 16 = 16.
 
 * som tu cez gui a menim kod zase na 15
 
