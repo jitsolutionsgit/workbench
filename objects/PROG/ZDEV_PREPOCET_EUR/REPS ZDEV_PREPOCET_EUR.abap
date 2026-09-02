@@ -20,7 +20,9 @@ REPORT zdev_prepocet_eur.
 
 
 
-IF 10 = 10.
+IF 16 = 16.
 
-* som tu cez eclise a menim kod zase
+* som tu cez github  a menim kod zase
+
+* GITHUB
 ENDIF.
